@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from OnePlus Ace 6T (PLR110_16.0.8.300(CN01)).
+## are from OnePlus Ace 6T (PLR110_16.0.9.400(CN01)).
 
 # ACDB
 odm/etc/acdbdata/FTM/acdb_cal.acdb
@@ -1569,6 +1569,19 @@ odm/etc/PanelChaplin/Dark_Eye_Protect_EsRGB.txt
 odm/etc/PanelChaplin/Dark_Eye_Protect_LsRGB.txt
 odm/etc/PanelChaplin/Dark_Eye_Protect_Nature.txt
 odm/etc/PanelChaplin/Dark_Eye_Protect_Vivid.txt
+odm/etc/PanelChaplin/Game_COMP3.txt
+odm/etc/PanelChaplin/Game_ColorInvert_Fliter.txt
+odm/etc/PanelChaplin/Game_FPS.txt
+odm/etc/PanelChaplin/Game_FPS_Fliter.txt
+odm/etc/PanelChaplin/Game_HighDynamicRange_Fliter.txt
+odm/etc/PanelChaplin/Game_MOBA.txt
+odm/etc/PanelChaplin/Game_MOBA_Fliter.txt
+odm/etc/PanelChaplin/Game_NightVision_Fliter.txt
+odm/etc/PanelChaplin/Game_OTOME.txt
+odm/etc/PanelChaplin/Game_OTOME_Fliter.txt
+odm/etc/PanelChaplin/Game_OldMovie_Fliter.txt
+odm/etc/PanelChaplin/Game_RPG.txt
+odm/etc/PanelChaplin/Game_Vivid_Fliter.txt
 odm/etc/PanelChaplin/Lut3D_311
 odm/etc/PanelChaplin/Lut3D_312
 odm/etc/PanelChaplin/panelchaplin
